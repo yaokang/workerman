@@ -1,0 +1,1 @@
+open_basedir="D:\UPUPW_K2.1_64\vhosts\workerman.io\;D:\UPUPW_K2.1_64\memcached\;D:\UPUPW_K2.1_64\phpmyadmin\;D:\UPUPW_K2.1_64\temp\;C:\Windows\Temp\"
